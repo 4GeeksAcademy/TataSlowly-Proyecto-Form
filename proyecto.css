@@ -1,0 +1,10 @@
+.payment-header {
+  background-color: #f8f9fa; 
+}
+.cards-section {
+    width: fit-content;
+    border-radius: 10px;
+}
+i {
+    color: white;
+}
